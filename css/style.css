@@ -1,0 +1,142 @@
+.nav-logo a img{
+    width: 300px;
+}
+.banner-images img{
+    width: 80%;
+    padding-left: 50px;
+}
+.nav-part{
+    background-color: #FEFAEB;
+    height: 700px;
+}
+.nav-style li a{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+    color: #273746;
+    margin-right: 50px;
+}
+.banner-text h1{
+    font-family: 'Lato', sans-serif;
+    color:  #F5AF34;
+    font-size: 55px;
+    font-weight: 700;
+}
+.banner-text   span{
+    font-family: 'Lato', sans-serif;
+    color:   #273746;
+    font-size: 55px;
+    font-weight: 700;
+}
+.banner-text p{
+    font-family: 'Lato', sans-serif;
+    color:   #2F2F2F;
+    font-size: 16px;
+    font-weight: 300;
+}
+.btn  img{
+     width: 40px;
+}
+.btn{
+    border-radius: 10px;
+    color: white;
+}
+.card-img-size img{
+    height: 330px;
+    width: 100%;
+    background-color: #EDEDED;
+    border-radius: 10px;
+    padding: 30px 50px;
+    
+}
+.card-img-size{
+    padding: 30px 30px;
+    border: 0;
+    border-radius: 15px;
+}
+.card-last{
+    border: 0;
+    background-color: white;
+    padding: 0;
+}
+.btn1{
+    background-color: #8BA521;
+    padding: 20px 40px;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+}
+.btn1 i{
+     font-size: 15px;
+     padding-right: 7px;
+}
+.card-last h5{
+    color:#F5AF34;
+    font-size: 38px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+}
+.body-part{
+    padding: 20px 0;
+}
+.body-part h5{
+    color: #282A46;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+}
+.body-part p{
+    color: #8C8C8C;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+}
+.categoris h2{
+    color: #282A46;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 30px;
+}
+.last-image img{
+    width: 70%;
+}
+.card-hori{
+    padding: 20px;
+    border-radius: 10px;
+}
+.hori-border{
+    border: 0;
+}
+.save-img img{
+    width: 100%;
+    padding-top: 78px;
+}
+
+.no-name{
+    height: 600px;
+    padding-top: 40px;
+}
+.text-body h5{
+    color: #282A46;
+}
+.text-body p{
+    color:  #8C8C8C;
+}
+
+@media (max-width: 575px){
+    .categoris h2{
+        text-align: center;
+    }
+   .col-md-5{
+       padding: 10px;
+   }
+   .no-name{
+       text-align: center;
+   }
+   .last-image img{
+        width: 30%;
+   }
+}
+
+
